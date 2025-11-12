@@ -1,0 +1,45 @@
+body {
+    font-family: Arial;
+    background: #111;
+    color: #fff;
+    text-align: center;
+}
+
+form {
+    margin: 20px;
+}
+
+input {
+    padding: 10px;
+    width: 250px;
+    border-radius: 8px;
+}
+
+button {
+    padding: 10px;
+    background: #007bff;
+    border: none;
+    color: white;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.contenedor {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.card {
+    background: #222;
+    border-radius: 10px;
+    margin: 15px;
+    padding: 10px;
+    width: 200px;
+}
+
+.card img {
+    width: 100%;
+    border-radius: 10px;
+}
