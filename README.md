@@ -28,6 +28,7 @@ git commit -m "Initial commit"
 
 Crea esta estructura de carpetas:
 ```
+
 MiProyecto/
 ├── main.py
 ├── models.py
